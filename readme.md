@@ -16,5 +16,10 @@ La raison pour laquelle `pandas` est indispensable dans un certain nombre de cas
 
 1. Approches classiques auto-régressives
 
-2. Exploitation des outils de machine-learning pour la prédiction de séries temporelles
+Ce sont les approches historiques en prédiction de séries temporelles: probablement dépassées par l'état de l'art, elles demeurent indispensables pour établir un résultat de référence et discuter avec les spécialistes du domaine.
 
+2. Exploitation des outils de machine-learning pour la prédiction de séries temporelles & pièges
+
+* Outils de ML pour les séries temporelles
+* Pièges classiques
+* Ouverture vers la classification de signaux 
